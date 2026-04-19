@@ -43,6 +43,7 @@ profile = {
     "interests":  ["Finance & Accounting", "CFA curriculum",
                    "Quantitative analysis", "ML & AI in finance",
                    "Business Intelligence"],
+    "exploring":  ["Quantum computing for finance"],
     "tools":      ["Python", "SQL", "Excel", "Tableau", "Power BI"],
     "open_to":    ["Financial Analyst", "Data / BI Analyst",
                    "Quant Research Intern", "Risk Analyst"],
@@ -120,7 +121,7 @@ profile = {
   </tr>
   <tr>
     <td><strong>Currently exploring</strong></td>
-    <td>CFA curriculum · ML &amp; AI for financial analysis · BI dashboards for portfolio &amp; risk reporting</td>
+    <td>CFA curriculum · ML &amp; AI for financial analysis · BI dashboards for portfolio &amp; risk reporting · quantum computing for finance</td>
   </tr>
 </table>
 
