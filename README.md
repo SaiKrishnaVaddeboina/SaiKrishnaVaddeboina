@@ -180,10 +180,11 @@ profile = {
   <img src="https://github-profile-trophy.vercel.app/?username=SaiKrishnaVaddeboina&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </p>
 
-<!-- Contribution snake generated daily by GitHub Action (see .github/workflows/snake.yml) -->
+<!-- Contribution snake (enable once snake.yml workflow has run at least once):
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaiKrishnaVaddeboina/SaiKrishnaVaddeboina/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
+-->
 
 ---
 
