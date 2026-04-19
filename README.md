@@ -110,59 +110,6 @@ profile = {
 
 ---
 
-### Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Options Pricing Engine (C++/Python)</h4>
-      <p>Production-grade Black-Scholes, Heston, and Monte-Carlo pricer with Greeks, implied-vol surface fitting, and a Python binding via pybind11.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/QuantLib-0E7A3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/pybind11-222222?style=flat-square" />
-      </p>
-      <a href="https://github.com/SaiKrishnaVaddeboina/options-pricing-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiKrishnaVaddeboina&repo=options-pricing-engine&theme=tokyonight" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Systematic Trading Backtester</h4>
-      <p>Vectorized backtesting framework for cross-sectional equity strategies — walk-forward validation, transaction-cost modeling, Sharpe/Sortino/max-DD analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Backtrader-111111?style=flat-square" />
-      </p>
-      <a href="https://github.com/SaiKrishnaVaddeboina/systematic-backtester"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiKrishnaVaddeboina&repo=systematic-backtester&theme=tokyonight" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Credit Risk ML Pipeline</h4>
-      <p>End-to-end default-probability model on LendingClub-scale data. XGBoost + SHAP explanations, calibrated with isotonic regression, served via FastAPI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/XGBoost-006EB6?style=flat-square" />
-        <img src="https://img.shields.io/badge/SHAP-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <a href="https://github.com/SaiKrishnaVaddeboina/credit-risk-ml"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiKrishnaVaddeboina&repo=credit-risk-ml&theme=tokyonight" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>LLM on 10-K Filings</h4>
-      <p>RAG pipeline over SEC EDGAR 10-K filings — chunked embeddings in pgvector, risk-factor extraction, and an interactive Streamlit Q&amp;A UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-      <a href="https://github.com/SaiKrishnaVaddeboina/llm-10k-analyst"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SaiKrishnaVaddeboina&repo=llm-10k-analyst&theme=tokyonight" /></a>
-    </td>
-  </tr>
-</table>
-
-> Replace the repo slugs above (`options-pricing-engine`, etc.) with whichever four projects you want pinned.
-
----
-
 ### GitHub statistics
 
 <p align="center">
